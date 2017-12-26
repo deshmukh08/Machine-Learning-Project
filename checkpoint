@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/patki1/MachineLearning/CNN_deep/src/TSA-Zone14-Angle-1.tfl.ckpt-1900"
+all_model_checkpoint_paths: "/home/patki1/MachineLearning/CNN_deep/src/TSA-Zone14-Angle-1.tfl.ckpt-1900"
